@@ -3,9 +3,10 @@ body{
 }
 
 p{
-    text-align: center;x
+    text-align: center;
 }
 
 #esse {
-    
+    font-size: 25px;
+    color: rgb(68, 15, 211);
 }
