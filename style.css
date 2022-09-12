@@ -1,6 +1,8 @@
 body{   
-    background: rgb(19, 7, 190);
+    background: rgb(19, 7, 190);   
 }
+#fundo{
+    width: 100%;
 
 p{
     text-align: center;
