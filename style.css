@@ -19,5 +19,11 @@ p{
     background: rgb(105, 103, 103) 
 }
 
+ul{
+    display: inline-block;
+    vertical-align:top;
+}
 
-
+#imagemb{
+    width: 50%;
+}
