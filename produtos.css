@@ -38,10 +38,10 @@ nav a {
 }
 
 .produtos li {
-display: inline block ;  
+    display: inline-block ;  
 }
 
 .item { 
-width: 360px;
+    width: 360px;
  }
 
