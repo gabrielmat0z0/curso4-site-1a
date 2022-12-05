@@ -1,5 +1,5 @@
 header {
-    background: rgb(124, 126, 133);
+    background: rgb(90, 91, 95);
 }
 
 .caixa {
@@ -31,22 +31,45 @@ nav li {
 
 nav a {
     text-transform: uppercase;
-    color: blue;
+    color: rgb(60, 73, 192);
     font-weight: bold;
     font-size: 20px;
     text-decoration: none;
 }
 
-.produtos li
-  display: inline-block;
+.produtos {
+   width: 1058 ;
+   height: 0 ;
+   padding: 50px 0;
+}
 
 
 .produtos li {
-    display: inline-block ;  
+    display: inline-block ; 
+    text-align: center; 
+    border-color: blue;
+    border-width: 3px;
+    border-style: solid;
+    margin: 10px;
+    padding: 20px 0;
+
 }
 
 .item { 
     width: 360px;
     height: 260;
  }
+
+ .produtos li h2{
+    font-size: 30px;
+    font-weight: bold;
+ }
+
+
+
+.produtos li{} 
+
+
+
+
 
